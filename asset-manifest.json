@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.f5497eb8.chunk.css",
-    "main.js": "/test/static/js/main.2f3c5e8d.chunk.js",
-    "main.js.map": "/test/static/js/main.2f3c5e8d.chunk.js.map",
-    "runtime-main.js": "/test/static/js/runtime-main.c5060aa3.js",
-    "runtime-main.js.map": "/test/static/js/runtime-main.c5060aa3.js.map",
-    "static/js/2.75376d99.chunk.js": "/test/static/js/2.75376d99.chunk.js",
-    "static/js/2.75376d99.chunk.js.map": "/test/static/js/2.75376d99.chunk.js.map",
-    "index.html": "/test/index.html",
-    "precache-manifest.5fb6bd99d7b67c16db90718f4f91b73d.js": "/test/precache-manifest.5fb6bd99d7b67c16db90718f4f91b73d.js",
-    "service-worker.js": "/test/service-worker.js",
-    "static/css/main.f5497eb8.chunk.css.map": "/test/static/css/main.f5497eb8.chunk.css.map",
-    "static/js/2.75376d99.chunk.js.LICENSE.txt": "/test/static/js/2.75376d99.chunk.js.LICENSE.txt",
-    "static/media/hashirshoaeb.png": "/test/static/media/hashirshoaeb.b4f40561.png",
-    "static/media/resume.pdf": "/test/static/media/resume.9d3da0e2.pdf"
+    "main.css": "/website/static/css/main.f5497eb8.chunk.css",
+    "main.js": "/website/static/js/main.ce85dfea.chunk.js",
+    "main.js.map": "/website/static/js/main.ce85dfea.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.d57c616e.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.d57c616e.js.map",
+    "static/js/2.75376d99.chunk.js": "/website/static/js/2.75376d99.chunk.js",
+    "static/js/2.75376d99.chunk.js.map": "/website/static/js/2.75376d99.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.a0f75804bb2a8bac59b7993262868d01.js": "/website/precache-manifest.a0f75804bb2a8bac59b7993262868d01.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.f5497eb8.chunk.css.map": "/website/static/css/main.f5497eb8.chunk.css.map",
+    "static/js/2.75376d99.chunk.js.LICENSE.txt": "/website/static/js/2.75376d99.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/website/static/media/hashirshoaeb.b4f40561.png",
+    "static/media/resume.pdf": "/website/static/media/resume.9d3da0e2.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5060aa3.js",
+    "static/js/runtime-main.d57c616e.js",
     "static/js/2.75376d99.chunk.js",
     "static/css/main.f5497eb8.chunk.css",
-    "static/js/main.2f3c5e8d.chunk.js"
+    "static/js/main.ce85dfea.chunk.js"
   ]
 }
