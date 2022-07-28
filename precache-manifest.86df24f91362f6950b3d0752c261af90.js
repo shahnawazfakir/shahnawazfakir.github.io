@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce8cd608930a20c2c3ff6cd5c4201e3f",
+    "revision": "9a8d77888c5f5ff8428de6a836e3c115",
     "url": "/index.html"
   },
   {
-    "revision": "313c496038a3d9ddd763",
-    "url": "/static/css/main.34f03f44.chunk.css"
+    "revision": "235a354065bd9ff54130",
+    "url": "/static/css/main.3e21a56b.chunk.css"
   },
   {
     "revision": "65bcf4e6742105cb5241",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.cc039619.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "313c496038a3d9ddd763",
-    "url": "/static/js/main.b522254a.chunk.js"
+    "revision": "235a354065bd9ff54130",
+    "url": "/static/js/main.2df970db.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bulogo.d5112e45.png"
   },
   {
-    "revision": "b4f40561f0ae1c75473e20912a98fc97",
-    "url": "/static/media/shahnawazfakir.b4f40561.png"
+    "revision": "c5033fb34eca4323b215aa89c6271372",
+    "url": "/static/media/profilepic.c5033fb3.png"
   }
 ]);
