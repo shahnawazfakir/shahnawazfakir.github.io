@@ -1,2 +1,3 @@
 # Portfolio Website 
-Langauges: React, Node.js, SCSS
+Languages: React, Node.js, SCSS
+Code not on GitHub
